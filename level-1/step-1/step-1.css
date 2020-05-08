@@ -7,7 +7,7 @@
 /* Use float to get this container in its desired location. */
 
 .content-left {
-    width: 34%;
+    width: 24%;
     float: left;
     height: 80vh;
     background: #565555;
@@ -17,7 +17,7 @@
 /* Use float to get this container in its desired location. */
 
 .content-mid {
-    width: 66%;
+    width: 76%;
     float: right;
     height: 80vh;
     background: #B0B0B0;
